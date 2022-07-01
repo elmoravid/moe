@@ -1,0 +1,411 @@
+/* 2 use id u have 2 use da # not da . */
+/* 2 use id u have 2 use da # not da . */
+body {
+  margin: auto;
+  min-height: 2.5%;
+  margin-top: 5%;
+  background-color: #FF7878;
+  text-align: center;
+
+}
+
+.container{
+  padding-top: 2%;
+  width: 100%;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 2.372%;
+  padding-left: 30%;
+
+
+}
+
+
+/* margin auto 15px makes space */
+.nav-link-wrapper a {
+  color: #006400;
+  text-decoration: none;
+  transition: color 1s;
+  margin: auto .9375%;
+  padding-left: .9375%;
+
+}
+.nav-link-wrapper:hover{
+  border-bottom: 0.0625% black;
+}
+.nav-link-wrapper a:hover{
+  color: black;
+}
+.nav-link-wrapper-s a {
+  color: #006400;
+  text-decoration: none;
+  transition: color 1s;
+  margin: auto .9375%;
+  padding-left: .9375%;
+  padding-bottom: 0.0625%;
+  padding-top: auto;
+}
+
+.nav-link-wrapper-s a:hover{
+  color: black;
+}
+
+
+html {
+  font-family: "Verdana",sans-serif;
+  background-color: #FF7878;
+  text-align: center;
+  width: 100%;
+}
+
+
+
+h1 {
+  font-size: 400%;
+  margin-top: 3.125%;
+text-align: center;
+  color: #3E7C17;
+}
+
+h2 {
+  color: #006400;
+  text-align: center;
+ }
+
+h3 {
+  color: #006400;
+  text-align: center;
+ }
+ p {
+   line-height: 2;
+ }
+
+ .mordern{
+   height: 20px;
+   border-bottom: 1px solid transparent;
+ }
+
+
+
+
+.ibrahim{
+  float: right;
+  margin: 15px;
+}
+.abdullah{
+  float: left;
+  margin: 15px;
+}
+.yusuf{
+  float: right;
+  margin: 15px;
+}
+.rightpic{
+  float: left;
+  margin: 15px;
+  height: 500px;
+}
+.leftpic{
+  float: right;
+  margin: 15px;
+}
+.harem-d{
+  margin-top: auto;
+  padding-top: 7%;
+  padding-bottom: none;
+  margin-bottom: none;
+}
+.harem-p{
+  background-image: url(./https://upload.wikimedia.org/wikipedia/commons/4/47/1836_Vernet_Sklavenmarkt_anagoria.JPG)no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.harem{
+  position: absolute; top: 35%; width: 100%; text-align: center;
+  }
+  .harem1{
+    position: absolute; top: 15%; width: 100%; text-align: center;
+  }
+.row{
+  text-align: center;
+}
+.main-header{
+  text-align: center;
+}
+.wear{
+  text-align: center;
+}
+.email{
+  text-align: center;
+}
+/* how you can move items around is wit da margin  u can also move items with z-index: 1 or 2 n so on or a neg number*/
+
+.carousel-item{
+  width: 25%;
+  margin: auto 35%;
+}
+
+.big{
+  width: 80%;
+}
+
+.flag{
+  color: #006400;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.straight-line{
+  display: flex;
+  justify-content: space-between;
+}
+.murabit{
+text-align: center;
+padding-top: 3%;
+}
+
+
+.store a{
+  color: #006400;
+  text-decoration: none;
+  transition: color 1s;
+  margin: auto 15px;
+  padding: 2% 2%;
+}
+.store:hover{
+  border-bottom: 1px black;
+}
+.store a:hover{
+  color: black;
+}
+
+.button{
+  padding: 1% 1%;
+}
+.button:hover{
+  color: #71DFE7;
+  transition: color 1s;
+  margin-top: 2px;
+}
+.burn{
+  color: #006400;
+}
+.drea{
+  padding-bottom: 5%;
+  padding-right: 7%;
+
+}
+.bear{
+
+  margin-bottom: 50px;
+  text-align: center;
+}
+.mod-pic{
+  padding-bottom: 5%;
+  max-width: 100%;
+margin-left: auto;
+margin-right: auto;
+}
+.ankh{
+color: white;
+width: 100%;
+}
+.kaaba{
+color: #CC0033;
+width: 100%;
+}
+.cross{
+  color: #006633;
+  width: 100%;
+}
+.om{
+  color: #FFFF33;
+  width: 100%;
+
+  text-align: center;
+}
+.star{
+color: white;
+width: 100%;
+}
+.david{
+  color: #000066;
+  width: 100%;
+}
+.gate{
+  color: #CC0033;
+  width: 100%;
+}
+.cont{
+  background: url(./https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATBeqnl1mmGYLrvmHFv4rudVGFYxpUOLDHQ&usqp=CAU)no repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 100vh;
+
+  }
+  .col-lg-3{
+    padding-top: 25%;
+
+  }
+  .ass{
+    box-sizing: border-box;
+    background-color: darkmagenta;
+    border-radius: 30%;
+    margin-top: -10%;
+    -webkit-box-shadow: 2% 4% 10% -15% rgba(242,102,242,1);
+-moz-box-shadow: 2% 4% 10% -15% rgba(242,102,242,1);
+box-shadow: 2% 4% 10% -15% rgba(242,102,242,1);
+  }
+
+
+  .effect-1{
+    border: auto;
+    outline: none;
+    width: 100%;
+    padding: 100px 100px;
+    border-top: auto;
+    border-bottom: 1px solid #ccc;
+  }
+  .effect-1 ~ .focus-border{
+    position: absolute;
+    bottom: auto;
+    left: 50%;
+    width: auto;
+    height: 2px;
+    background-color: darkmagenta;
+    transition: 0.4s;
+  }
+  .effect-1:focus ~ .focus-border{
+    width: 100%;
+    transition: 0.4s;
+    left: auto;
+  }
+  .btn1{
+    background: darkmagenta;
+    color: white;
+    outline: auto;
+    border: none;
+    border-radius: 15%;
+    height: 35%;
+    width: 155%;
+  }.btn1:hover{
+    -webkit-box-shadow: 2% 4% 10% -15% rgba(242,102,242,1);
+-moz-box-shadow: 2% 4% 10% -15% rgba(242,102,242,1);
+box-shadow: 2% 4% 10% -15% rgba(242,102,242,1);
+  }
+@media screen and (max-width:599.98px)  {
+  .container{
+    padding-top: 20%;
+    width: 100%;
+    justify-content: space-between;
+    justify-content: space-around;
+  }
+  .nav-wrapper{
+
+    width: 10em;
+    display: contents;
+
+
+  }
+  .nav-link-wrapper a{
+    padding-right: 10%;
+    padding-top: 25%;
+  }
+  body img {
+    width: 70em;
+    margin-left:.0.10em;
+    margin-right: 0.5em;
+  }
+  body{
+    text-align: center;
+    font-size: 50%;
+
+
+  }
+  .drea{
+
+    font-size: 150%;
+    width: 100%;
+  }
+  .harem1{
+    padding-top: 20%;
+    width: 100%;
+  }
+}
+@media screen and (max-width:599.98px)  {
+  .container {
+    padding-right: 10%;
+    text-align: center;
+    width: 100%;
+    justify-content: space-around;
+    justify-content: space-between;
+  }
+
+  body img {
+    max-width: 100%;
+    text-align: center;
+    padding-left: 5%;
+
+  }
+  .nav-wrapper{
+    padding-top: 20%;
+    padding-right: 12%;
+    text-align: center;
+    width: 100%;
+  }
+  .nav-link-wrapper a{
+    padding-right: 10%;
+    padding-top: 10%;
+  }
+  .mod-pic{
+    max-width: 10em;
+    text-align: center;
+
+
+  }
+  body{
+    text-align: center;
+    padding-left: 3%;
+    padding-right: 5%;
+  }
+  .drea{
+    padding-left: %;
+    font-size: 150%;
+    max-width: 100%;
+    min-height: 100%;
+  }
+
+}
+@media screen and (max-width: 399.98px) {
+   .banner {
+      padding-top: 10px!important;
+      padding-bottom: 40px!important;
+      justify-content: space-around;
+      justify-content: space-between;
+   }
+   img.three-col-img {
+      width: 200px!important;
+      max-width: 200px!important;
+   }
+}
+
+/* Custom Dark Mode Colors */
+:root {
+   color-scheme: light dark;
+   supported-color-schemes: light dark;
+}
+@media (prefers-color-scheme: dark) {
+   body, center, table {
+      background: #2d2d2d!important;
+      color: #ffffff!important;
+      justify-content: space-around;
+      justify-content: space-between;
+   }
+   .darkmode-transparent {
+      background-color: transparent!important;
+   }
+}
